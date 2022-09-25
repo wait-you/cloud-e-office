@@ -1,5 +1,6 @@
 package cn.wenhe9.yeb.server.mapper;
 
+import cn.wenhe9.yeb.server.domain.Salary;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**

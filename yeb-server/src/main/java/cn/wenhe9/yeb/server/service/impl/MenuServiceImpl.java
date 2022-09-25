@@ -1,5 +1,6 @@
 package cn.wenhe9.yeb.server.service.impl;
 
+import cn.wenhe9.yeb.server.domain.Menu;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import cn.wenhe9.yeb.server.service.MenuService;
 import cn.wenhe9.yeb.server.mapper.MenuMapper;

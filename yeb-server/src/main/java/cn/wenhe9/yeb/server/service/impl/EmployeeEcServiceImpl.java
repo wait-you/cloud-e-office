@@ -1,5 +1,6 @@
 package cn.wenhe9.yeb.server.service.impl;
 
+import cn.wenhe9.yeb.server.domain.EmployeeEc;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import cn.wenhe9.yeb.server.service.EmployeeEcService;
 import cn.wenhe9.yeb.server.mapper.EmployeeEcMapper;

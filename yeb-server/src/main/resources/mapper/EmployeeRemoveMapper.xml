@@ -4,7 +4,7 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="cn.wenhe9.yeb.server.mapper.EmployeeRemoveMapper">
 
-    <resultMap id="BaseResultMap" type="generator.domain.EmployeeRemove">
+    <resultMap id="BaseResultMap" type="cn.wenhe9.yeb.server.domain.EmployeeRemove">
             <id property="id" column="id" jdbcType="INTEGER"/>
             <result property="eid" column="eid" jdbcType="INTEGER"/>
             <result property="afterdepid" column="afterDepId" jdbcType="INTEGER"/>

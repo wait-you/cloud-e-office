@@ -1,4 +1,4 @@
-package cn.wenhe9.yeb.server.swgger;
+package cn.wenhe9.yeb.server.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

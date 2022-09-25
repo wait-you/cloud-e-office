@@ -1,5 +1,6 @@
 package cn.wenhe9.yeb.server.service;
 
+import cn.wenhe9.yeb.server.domain.Menu;
 import com.baomidou.mybatisplus.extension.service.IService;
 
 /**
